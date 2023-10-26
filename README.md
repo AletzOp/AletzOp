@@ -1,5 +1,5 @@
 Rafael Alejandro Cancino Castillo
-[Your Contact Information]
+
 
 Summary:
 I am a Systems Engineer with 6 years of experience, specializing in C#, JavaScript, ASP.NET, and various database systems including MySQL, SQL Server, and Oracle. Currently, I am thriving in two roles. At CogniTI, I serve as a MID Software Developer, working with ASP.NET, C#, and SQL Server. At Saludness, I hold the position of Software Architect, where I design websites using the Wasabi language and MongoDB. I have an unquenchable thirst for challenges that drive my personal and professional growth. I am a self-learner, proactive, and driven to continually expand my knowledge and skills.
