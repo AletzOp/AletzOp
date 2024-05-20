@@ -14,7 +14,7 @@ Professional Experience:
 
 2. Saludness | May 2023 - Present | Software Architect
    - Specialized in web development using Wasabi and MongoDB
-   - Contributed to projects at various hospitals, including the Regional High Specialty Hospital of Ixtapaluca
+   - Contributed to projects at various hospitals, including the Hospital Regional de Alta Especialidad de Ixtapaluca, Hospital Regional Ciudad Salud y Hospital de Especialidades Pediatricas.
 
 3. Saludness | Aug 2019 - Jun 2022 | Support Executive
    - Provided on-site support for the Regional High Specialty Hospital of Ixtapaluca
